@@ -38,8 +38,8 @@ A travel and accommodation booking platform designed to simplify finding and boo
 ## Contact
 
 - **Location:** Al-Aroub Camp, Hebron
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/abdullah-omer-younis-mhesen)
-- **GitHub:** [GitHub Profile](https://github.com/your-github-username)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/abdalla-mhesen-72645a315/)
+- **GitHub:** [GitHub Profile](https://github.com/mhesen2024)
 
 ---
 
